@@ -2,3 +2,4 @@
 *.log
 .bundle/
 artifacts/
+.DS_Store
